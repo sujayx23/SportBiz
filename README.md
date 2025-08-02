@@ -1,4 +1,4 @@
-# SportStore AI - Intelligent Sports Business Assistant
+# SportBiz
 
 > **AI-Powered Sports Store Generator with Multi-Agent Workflows**
 

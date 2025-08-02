@@ -85,13 +85,6 @@ SportStore AI/
 - **E-commerce Integration**: Direct product sourcing
 - **Analytics Dashboard**: Performance tracking and optimization
 
-## 🤝 Contributing
-
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
-
-## 📄 License
-
-MIT License - see [LICENSE](LICENSE) for details.
 
 ---
 

@@ -71,4 +71,4 @@ SportStore AI/
 
 ---
 
-**Built with ❤️ using LangChain, OpenAI, and Streamlit** 
+**Built using LangChain, OpenAI, and Streamlit** 

@@ -29,23 +29,6 @@ A cutting-edge LangChain application that leverages OpenAI's GPT-4 to generate c
 - **Tools**: Web search, image generation, market research
 - **Data**: Real-time sports market trends
 
-## 📦 Installation
-
-```bash
-# Clone the repository
-git clone <repository-url>
-cd Sport_Store
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Set up environment variables
-cp .env.example .env
-# Add your OpenAI API key to .env
-
-# Run the application
-streamlit run main.py
-```
 
 ## 🎯 Usage
 
